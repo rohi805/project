@@ -205,7 +205,13 @@
 										"outputs": [
 											{
 												"referenceName": "DelimitedText4",
-												"type": "DatasetReference"
+												"type": "DatasetReference",
+												"parameters": {
+													"filename": {
+														"value": "@item().name",
+														"type": "Expression"
+													}
+												}
 											}
 										]
 									}
@@ -276,7 +282,13 @@
 										"outputs": [
 											{
 												"referenceName": "DelimitedText5",
-												"type": "DatasetReference"
+												"type": "DatasetReference",
+												"parameters": {
+													"filename": {
+														"value": "@replace(item().name, '.zip', '')",
+														"type": "Expression"
+													}
+												}
 											}
 										]
 									}
