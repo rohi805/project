@@ -8,10 +8,10 @@
 			"domain": "https://adb-7405619934920653.13.azuredatabricks.net",
 			"newClusterNodeType": "Standard_DS3_v2",
 			"newClusterNumOfWorker": "1:2",
-			"newClusterVersion": "14.3 LTS",
+			"newClusterVersion": "13.3.x-scala2.12",
 			"clusterOption": "Autoscaling",
 			"newClusterInitScripts": [],
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDMxNkQwNUY1LUJBOUMtNEFCMy04OEU1LTAwOEZERjg3QUYxM18zMjcxYTc2MS1mODIzLTQyNTctODQzYy03MzgwZTI3N2VmNzYiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDMxNkQwNUY1LUJBOUMtNEFCMy04OEU1LTAwOEZERjg3QUYxM19mNzQ1ODVjNS0wMTNiLTQ4ZmMtOWRmYy1iMDM2YjVjMWNmZDMiDQp9"
 		}
 	}
 }
